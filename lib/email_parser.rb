@@ -7,7 +7,6 @@ class EmailAddressParser
   
   attr_reader :email
   
-  #EmailAddressParse = []
   
   def initialize(email)
     @email = email
