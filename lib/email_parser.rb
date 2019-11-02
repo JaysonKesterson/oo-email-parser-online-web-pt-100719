@@ -5,7 +5,7 @@
 
 class EmailAddressParser
   
-  EmailAddressParse = []
+  #EmailAddressParse = []
   
   def initialize(email)
     
