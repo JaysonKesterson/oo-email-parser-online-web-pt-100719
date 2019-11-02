@@ -5,4 +5,6 @@
 
 class EmailParser
   
+  EMAILADDRESSPARSER = []
+  
 end
